@@ -24,7 +24,7 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 | [Older Version Support](https://github.com/bestluaucoder/Autism-Older-version-support) | Compatibility backport for Minecraft 1.21 through 1.21.11. | [bestluaucoder](https://github.com/bestluaucoder) |
 | [frest's autism addons](https://github.com/frestmybest/frests-autism-addons) | 24 utility modules across mining, inventory, survival, movement, and comfort. | [frestmybest](https://github.com/frestmybest) |
 
-## Related project
+## Related/out of date projects (now part of the client)
 
 [doghero002-cmd/baritone](https://github.com/doghero002-cmd/baritone) is a customized Baritone fork described as supporting addon compatibility. It is listed separately because it is not an AUTISM Client addon itself.
 
