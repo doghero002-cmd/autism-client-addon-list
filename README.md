@@ -20,7 +20,6 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 | [autismclient-pvp](https://github.com/nxghtCry0/autismclient-pvp) | PvP addon for AUTISM Client. | [nxghtCry0](https://github.com/nxghtCry0) |
 | [AUTISM Client++](https://github.com/altlll/AutismClientPlusPlus) | Adds extra modules on top of the base client. | [altlll](https://github.com/altlll) |
 | [Better Storage ESP](https://github.com/bestluaucoder/Autism-Better-Storage-esp-1-addon) | Lets you hide selected structures from Storage ESP. | [bestluaucoder](https://github.com/bestluaucoder) |
-| [ChunkFinder](https://github.com/bestluaucoder/Autism-ChunkFinder) | Chunk-finding plugin. | [bestluaucoder](https://github.com/bestluaucoder) |
 | [Older Version Support](https://github.com/bestluaucoder/Autism-Older-version-support) | Compatibility backport for Minecraft 1.21 through 1.21.11. | [bestluaucoder](https://github.com/bestluaucoder) |
 | [frest's autism addons](https://github.com/frestmybest/frests-autism-addons) | 24 utility modules across mining, inventory, survival, movement, and comfort. | [frestmybest](https://github.com/frestmybest) |
 
