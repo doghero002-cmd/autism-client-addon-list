@@ -23,7 +23,10 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 | [Better Storage ESP](https://github.com/bestluaucoder/Autism-Better-Storage-esp-1-addon) | Lets you hide selected structures from Storage ESP. | [bestluaucoder](https://github.com/bestluaucoder) |
 | [Older Version Support](https://github.com/bestluaucoder/Autism-Older-version-support) | Compatibility backport for Minecraft 1.21 through 1.21.11. | [bestluaucoder](https://github.com/bestluaucoder) |
 | [frest's autism addons](https://github.com/frestmybest/frests-autism-addons) | 24 utility modules across mining, inventory, survival, movement, and comfort. | [frestmybest](https://github.com/frestmybest) |
-
+| [Damoko Add On](https://github.com/damokooff/autism-addon-damoko-addon) | Movement, combat, automation and detection modules: Auto Pilot (elytra fly with firework restock), Auto Eat/Gap/EXP/Mend, Auto Log, Auto Respawn, Auto Weapon, Auto Breed/Shearer/Nametag, Spear Aura, Mace Aura, plus ported Trouser Streak modules. | [damokooff](https://github.com/damokooff) |
+| [Mace Hitter](https://github.com/quincey-ys/Autism-Mace-Hitter-Addon) | KillAura-style mace module: locks the nearest target, auto-swaps to mace, auto-jumps so every hit is a smash, and instantly hits shield blockers. | [quincey-ys](https://github.com/quincey-ys) |
+| [Module Toggle Feedback](https://github.com/xAndraee/Module-Chat-Feedback) | Adds a per-module setting to suppress enable/disable chat feedback for any AUTISM module. | [xAndraee](https://github.com/xAndraee) |
+| [autism-mcp](https://github.com/codedsword/autism-mcp) | MCP server plus Fabric addon that lets an AI agent drive and observe AUTISM Client on local test servers for exploit-hunting research. | [codedsword](https://github.com/codedsword) |
 ## Related/out of date projects (now part of the client)
 
 [doghero002-cmd/baritone](https://github.com/doghero002-cmd/baritone) is a customized Baritone fork described as supporting addon compatibility. It is listed separately because it is not an AUTISM Client addon itself.
