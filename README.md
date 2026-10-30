@@ -4,15 +4,16 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 
 | Addon | What it adds | Creator |
 | --- | --- | --- |
-| [Anti-Lag](https://github.com/devrim-5710/Anti-Lag-Addon-Autism-Client) | Disables rendering for snowballs, minecarts, boats, and armor stands. | [devrim-5710](https://github.com/devrim-5710) |
-| [AnchorAura](https://github.com/devrim-5710/Autism-Client-AnchorAura-Addon) | AnchorAura module. | [devrim-5710](https://github.com/devrim-5710) |
-| [ElytraMace](https://github.com/devrim-5710/Autism-Client-ElytraMace-Addon) | Elytra and mace combat module. | [devrim-5710](https://github.com/devrim-5710) |
-| [Litematica Printer](https://github.com/devrim-5710/Autism-Client-Litematica-Printer) | Prints the schematic currently loaded in Litematica. | [devrim-5710](https://github.com/devrim-5710) |
-| [NoJumpDelay](https://github.com/devrim-5710/Autism-Client-NoJumpDelay-Addon) | Removes the delay between jumps. | [devrim-5710](https://github.com/devrim-5710) |
-| [NoSnowball](https://github.com/devrim-5710/Autism-Client-NoSnowball-Addon) | NoSnowball module. | [devrim-5710](https://github.com/devrim-5710) |
-| [OreSim](https://github.com/devrim-5710/Autism-Client-OreSim-Addon) | OreSim module. | [devrim-5710](https://github.com/devrim-5710) |
-| [SpinBot](https://github.com/devrim-5710/Autism-Client-SpinBot-Addon) | SpinBot module. | [devrim-5710](https://github.com/devrim-5710) |
-| [Better ESP](https://github.com/devrim-5710/BetterEsp-Addon) | Adds box rendering modes to ESP and ItemESP. | [devrim-5710](https://github.com/devrim-5710) |
+| [Anti-Lag](https://github.com/theflex5710/Anti-Lag-Addon-Autism-Client) | Disables rendering for snowballs, minecarts, boats, and armor stands. | [theflex5710](https://github.com/theflex5710) |
+| [AnchorAura](https://github.com/theflex5710/Autism-Client-AnchorAura-Addon) | AnchorAura module. | [theflex5710](https://github.com/theflex5710) |
+| [ElytraMace](https://github.com/theflex5710/Autism-Client-ElytraMace-Addon) | Elytra and mace combat module. | [theflex5710](https://github.com/theflex5710) |
+| [Litematica Printer](https://github.com/theflex5710/Autism-Client-Litematica-Printer) | Prints the schematic currently loaded in Litematica. | [theflex5710](https://github.com/theflex5710) |
+| [NoJumpDelay](https://github.com/theflex5710/Autism-Client-NoJumpDelay-Addon) | Removes the delay between jumps. | [theflex5710](https://github.com/theflex5710) |
+| [NoSnowball](https://github.com/theflex5710/Autism-Client-NoSnowball-Addon) | NoSnowball module. | [theflex5710](https://github.com/theflex5710) |
+| [OreSim](https://github.com/theflex5710/Autism-Client-OreSim-Addon) | OreSim module. | [theflex5710](https://github.com/theflex5710) |
+| [SpinBot](https://github.com/theflex5710/Autism-Client-SpinBot-Addon) | SpinBot module. | [theflex5710](https://github.com/theflex5710) |
+| [Better ESP](https://github.com/theflex5710/BetterEsp-Addon) | Adds box rendering modes to ESP and ItemESP. | [theflex5710](https://github.com/theflex5710) |
+| [Better Block ESP](https://github.com/theflex5710/Better-Block-Esp-Addon) | Adds per-block color settings to the built-in BlockESP module. | [theflex5710](https://github.com/theflex5710) |
 | [Dupe Radar](https://github.com/ErneTalu/Dupe-Radar) | Scans detected server plugins against known dupe databases; its README notes this feature may already be built into the main client. | [ErneTalu](https://github.com/ErneTalu) |
 | [BossAddon](https://github.com/WaterBoss11/BossAddon) | Combined PvP and utility addon for AUTISM Client. | [WaterBoss11](https://github.com/WaterBoss11) |
 | [BaseHunting & Misc Tools](https://github.com/doghero002-cmd/autism-client-basehunting-misc-tools) | Base and stash discovery, seed/coordinate tools, and utilities. | [doghero002-cmd](https://github.com/doghero002-cmd) |
