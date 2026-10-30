@@ -14,7 +14,6 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 | [SpinBot](https://github.com/theflex5710/Autism-Client-SpinBot-Addon) | SpinBot module. | [theflex5710](https://github.com/theflex5710) |
 | [Better ESP](https://github.com/theflex5710/BetterEsp-Addon) | Adds box rendering modes to ESP and ItemESP. | [theflex5710](https://github.com/theflex5710) |
 | [Better Block ESP](https://github.com/theflex5710/Better-Block-Esp-Addon) | Adds per-block color settings to the built-in BlockESP module. | [theflex5710](https://github.com/theflex5710) |
-| [Dupe Radar](https://github.com/ErneTalu/Dupe-Radar) | Scans detected server plugins against known dupe databases; its README notes this feature may already be built into the main client. | [ErneTalu](https://github.com/ErneTalu) |
 | [BossAddon](https://github.com/WaterBoss11/BossAddon) | Combined PvP and utility addon for AUTISM Client. | [WaterBoss11](https://github.com/WaterBoss11) |
 | [BaseHunting & Misc Tools](https://github.com/doghero002-cmd/autism-client-basehunting-misc-tools) | Base and stash discovery, seed/coordinate tools, and utilities. | [doghero002-cmd](https://github.com/doghero002-cmd) |
 | [Autism Rejects](https://github.com/9m113konkors/autism-rejects) | PvP modules and combat automations. | [9m113konkors](https://github.com/9m113konkors) |
@@ -28,6 +27,8 @@ A directory of public addons for [AUTISM Client](https://github.com/AutismDevelo
 | [Module Toggle Feedback](https://github.com/xAndraee/Module-Chat-Feedback) | Adds a per-module setting to suppress enable/disable chat feedback for any AUTISM module. | [xAndraee](https://github.com/xAndraee) |
 | [autism-mcp](https://github.com/codedsword/autism-mcp) | MCP server plus Fabric addon that lets an AI agent drive and observe AUTISM Client on local test servers for exploit-hunting research. | [codedsword](https://github.com/codedsword) |
 ## Related/out of date projects (now part of the client)
+
+[ErneTalu/Dupe-Radar](https://github.com/ErneTalu/Dupe-Radar) scanned detected server plugins against known dupe databases. This functionality is now built into the main client, so the addon is no longer needed.
 
 [doghero002-cmd/baritone](https://github.com/doghero002-cmd/baritone) is a customized Baritone fork described as supporting addon compatibility. It is listed separately because it is not an AUTISM Client addon itself.
 
